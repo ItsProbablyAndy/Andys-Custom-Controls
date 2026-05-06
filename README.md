@@ -1,2 +1,2 @@
-# Andys-Custom-Controller-Mapping
-A place to store all of my finished and archived controller mappings for games to be played on Steam. This project is intend to help make Mouse and Keyboard exclusive games accessible to Steam Deck and Controller users by creating natural layouts that feel good to use.
+# Andys-Custom-Controls
+A place to store all of my finished controller mappings for games to be played on Steam utilizing the Steam Inputs custom mapping features to create natural feeling layouts for Mouse and Keyboard exclusive games so that they can be played with Xbox, Playstation, native Steam Deck and Steam Controller options. If you'd like to browse the full list of released layouts per game, check out the full repo over on github @ github.com/ItsProbablyAndy/Andys-Custom-Controls
